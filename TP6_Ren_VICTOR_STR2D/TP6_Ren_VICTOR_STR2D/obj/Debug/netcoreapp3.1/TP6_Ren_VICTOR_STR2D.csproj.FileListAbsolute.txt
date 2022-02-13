@@ -1,0 +1,14 @@
+D:\TP6_Ren_VICTOR_STR2D\TP6_Ren_VICTOR_STR2D\bin\Debug\netcoreapp3.1\TP6_Ren_VICTOR_STR2D.exe
+D:\TP6_Ren_VICTOR_STR2D\TP6_Ren_VICTOR_STR2D\bin\Debug\netcoreapp3.1\TP6_Ren_VICTOR_STR2D.deps.json
+D:\TP6_Ren_VICTOR_STR2D\TP6_Ren_VICTOR_STR2D\bin\Debug\netcoreapp3.1\TP6_Ren_VICTOR_STR2D.runtimeconfig.json
+D:\TP6_Ren_VICTOR_STR2D\TP6_Ren_VICTOR_STR2D\bin\Debug\netcoreapp3.1\TP6_Ren_VICTOR_STR2D.runtimeconfig.dev.json
+D:\TP6_Ren_VICTOR_STR2D\TP6_Ren_VICTOR_STR2D\bin\Debug\netcoreapp3.1\TP6_Ren_VICTOR_STR2D.dll
+D:\TP6_Ren_VICTOR_STR2D\TP6_Ren_VICTOR_STR2D\bin\Debug\netcoreapp3.1\TP6_Ren_VICTOR_STR2D.pdb
+D:\TP6_Ren_VICTOR_STR2D\TP6_Ren_VICTOR_STR2D\obj\Debug\netcoreapp3.1\TP6_Ren_VICTOR_STR2D.csproj.AssemblyReference.cache
+D:\TP6_Ren_VICTOR_STR2D\TP6_Ren_VICTOR_STR2D\obj\Debug\netcoreapp3.1\TP6_Ren_VICTOR_STR2D.GeneratedMSBuildEditorConfig.editorconfig
+D:\TP6_Ren_VICTOR_STR2D\TP6_Ren_VICTOR_STR2D\obj\Debug\netcoreapp3.1\TP6_Ren_VICTOR_STR2D.AssemblyInfoInputs.cache
+D:\TP6_Ren_VICTOR_STR2D\TP6_Ren_VICTOR_STR2D\obj\Debug\netcoreapp3.1\TP6_Ren_VICTOR_STR2D.AssemblyInfo.cs
+D:\TP6_Ren_VICTOR_STR2D\TP6_Ren_VICTOR_STR2D\obj\Debug\netcoreapp3.1\TP6_Ren_VICTOR_STR2D.csproj.CoreCompileInputs.cache
+D:\TP6_Ren_VICTOR_STR2D\TP6_Ren_VICTOR_STR2D\obj\Debug\netcoreapp3.1\TP6_Ren_VICTOR_STR2D.dll
+D:\TP6_Ren_VICTOR_STR2D\TP6_Ren_VICTOR_STR2D\obj\Debug\netcoreapp3.1\TP6_Ren_VICTOR_STR2D.pdb
+D:\TP6_Ren_VICTOR_STR2D\TP6_Ren_VICTOR_STR2D\obj\Debug\netcoreapp3.1\TP6_Ren_VICTOR_STR2D.genruntimeconfig.cache

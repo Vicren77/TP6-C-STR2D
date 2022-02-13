@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TP6_Ren_VICTOR_STR2D/1.0.0": {
+        "runtime": {
+          "TP6_Ren_VICTOR_STR2D.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TP6_Ren_VICTOR_STR2D/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
